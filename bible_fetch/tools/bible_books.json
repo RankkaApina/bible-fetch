@@ -1,0 +1,1180 @@
+{
+	"GEN": {
+		"languages": {
+			"eng": {
+				"name": "Genesis",
+				"short": "Gen"
+			},
+			"fin": {
+				"name": "1. Mooseksen kirja",
+				"short": "1. Moos."
+			}
+		},
+		"section": "OT",
+		"chapters": 50
+	},
+	"EXO": {
+		"languages": {
+			"eng": {
+				"name": "Exodus",
+				"short": "Exod"
+			},
+			"fin": {
+				"name": "2. Mooseksen kirja",
+				"short": "2. Moos."
+			}
+		},
+		"section": "OT",
+		"chapters": 40
+	},
+	"LEV": {
+		"languages": {
+			"eng": {
+				"name": "Leviticus",
+				"short": "Lev"
+			},
+			"fin": {
+				"name": "3. Mooseksen kirja",
+				"short": "3. Moos."
+			}
+		},
+		"section": "OT",
+		"chapters": 27
+	},
+	"NUM": {
+		"languages": {
+			"eng": {
+				"name": "Numbers",
+				"short": "Num"
+			},
+			"fin": {
+				"name": "4. Mooseksen kirja",
+				"short": "4. Moos."
+			}
+		},
+		"section": "OT",
+		"chapters": 36
+	},
+	"DEU": {
+		"languages": {
+			"eng": {
+				"name": "Deuteronomy",
+				"short": "Deut"
+			},
+			"fin": {
+				"name": "5. Mooseksen kirja",
+				"short": "5. Moos."
+			}
+		},
+		"section": "OT",
+		"chapters": 34
+	},
+	"JOS": {
+		"languages": {
+			"eng": {
+				"name": "Joshua",
+				"short": "Josh"
+			},
+			"fin": {
+				"name": "Joosua",
+				"short": "Joos."
+			}
+		},
+		"section": "OT",
+		"chapters": 24
+	},
+	"JDG": {
+		"languages": {
+			"eng": {
+				"name": "Judges",
+				"short": "Judg"
+			},
+			"fin": {
+				"name": "Tuomarien kirja",
+				"short": "Tuom."
+			}
+		},
+		"section": "OT",
+		"chapters": 21
+	},
+	"RUT": {
+		"languages": {
+			"eng": {
+				"name": "Ruth",
+				"short": "Ruth"
+			},
+			"fin": {
+				"name": "Ruut",
+				"short": "Ruut"
+			}
+		},
+		"section": "OT",
+		"chapters": 4
+	},
+	"1SA": {
+		"languages": {
+			"eng": {
+				"name": "1 Samuel",
+				"short": "1 Sam"
+			},
+			"fin": {
+				"name": "1. Samuelin kirja",
+				"short": "1. Sam."
+			}
+		},
+		"section": "OT",
+		"chapters": 31
+	},
+	"2SA": {
+		"languages": {
+			"eng": {
+				"name": "2 Samuel",
+				"short": "2 Sam"
+			},
+			"fin": {
+				"name": "2. Samuelin kirja",
+				"short": "2. Sam."
+			}
+		},
+		"section": "OT",
+		"chapters": 24
+	},
+	"1KI": {
+		"languages": {
+			"eng": {
+				"name": "1 Kings",
+				"short": "1 Kgs"
+			},
+			"fin": {
+				"name": "1. kuninkaiden kirja",
+				"short": "1. Kun."
+			}
+		},
+		"section": "OT",
+		"chapters": 22
+	},
+	"2KI": {
+		"languages": {
+			"eng": {
+				"name": "2 Kings",
+				"short": "2 Kgs"
+			},
+			"fin": {
+				"name": "2. kuninkaiden kirja",
+				"short": "2. Kun."
+			}
+		},
+		"section": "OT",
+		"chapters": 25
+	},
+	"1CH": {
+		"languages": {
+			"eng": {
+				"name": "1 Chronicles",
+				"short": "1 Chr"
+			},
+			"fin": {
+				"name": "1. aikakirja",
+				"short": "1. Aik."
+			}
+		},
+		"section": "OT",
+		"chapters": 29
+	},
+	"2CH": {
+		"languages": {
+			"eng": {
+				"name": "2 Chronicles",
+				"short": "2 Chr"
+			},
+			"fin": {
+				"name": "2. aikakirja",
+				"short": "2. Aik."
+			}
+		},
+		"section": "OT",
+		"chapters": 36
+	},
+	"EZR": {
+		"languages": {
+			"eng": {
+				"name": "Ezra",
+				"short": "Ezra"
+			},
+			"fin": {
+				"name": "Esra",
+				"short": "Esra"
+			}
+		},
+		"section": "OT",
+		"chapters": 10
+	},
+	"NEH": {
+		"languages": {
+			"eng": {
+				"name": "Nehemiah",
+				"short": "Neh"
+			},
+			"fin": {
+				"name": "Nehemia",
+				"short": "Neh."
+			}
+		},
+		"section": "OT",
+		"chapters": 13
+	},
+	"EST": {
+		"languages": {
+			"eng": {
+				"name": "Esther",
+				"short": "Esth"
+			},
+			"fin": {
+				"name": "Ester",
+				"short": "Est."
+			}
+		},
+		"section": "OT",
+		"chapters": 10
+	},
+	"JOB": {
+		"languages": {
+			"eng": {
+				"name": "Job",
+				"short": "Job"
+			},
+			"fin": {
+				"name": "Job",
+				"short": "Job"
+			}
+		},
+		"section": "OT",
+		"chapters": 42
+	},
+	"PSA": {
+		"languages": {
+			"eng": {
+				"name": "Psalms",
+				"short": "Ps"
+			},
+			"fin": {
+				"name": "Psalmit",
+				"short": "Ps."
+			}
+		},
+		"section": "OT",
+		"chapters": 150
+	},
+	"PRO": {
+		"languages": {
+			"eng": {
+				"name": "Proverbs",
+				"short": "Prov"
+			},
+			"fin": {
+				"name": "Sananlaskut",
+				"short": "Sanal."
+			}
+		},
+		"section": "OT",
+		"chapters": 31
+	},
+	"ECC": {
+		"languages": {
+			"eng": {
+				"name": "Ecclesiastes",
+				"short": "Eccl"
+			},
+			"fin": {
+				"name": "Saarnaaja",
+				"short": "Saar."
+			}
+		},
+		"section": "OT",
+		"chapters": 12
+	},
+	"SNG": {
+		"languages": {
+			"eng": {
+				"name": "Song of Songs",
+				"short": "Song"
+			},
+			"fin": {
+				"name": "Laulujen laulu",
+				"short": "Laul. l."
+			}
+		},
+		"section": "OT",
+		"chapters": 8
+	},
+	"ISA": {
+		"languages": {
+			"eng": {
+				"name": "Isaiah",
+				"short": "Isa"
+			},
+			"fin": {
+				"name": "Jesaja",
+				"short": "Jes."
+			}
+		},
+		"section": "OT",
+		"chapters": 66
+	},
+	"JER": {
+		"languages": {
+			"eng": {
+				"name": "Jeremiah",
+				"short": "Jer"
+			},
+			"fin": {
+				"name": "Jeremia",
+				"short": "Jer."
+			}
+		},
+		"section": "OT",
+		"chapters": 52
+	},
+	"LAM": {
+		"languages": {
+			"eng": {
+				"name": "Lamentations",
+				"short": "Lam"
+			},
+			"fin": {
+				"name": "Valitusvirret",
+				"short": "Valit."
+			}
+		},
+		"section": "OT",
+		"chapters": 5
+	},
+	"EZK": {
+		"languages": {
+			"eng": {
+				"name": "Ezekiel",
+				"short": "Ezek"
+			},
+			"fin": {
+				"name": "Hesekiel",
+				"short": "Hes."
+			}
+		},
+		"section": "OT",
+		"chapters": 48
+	},
+	"DAN": {
+		"languages": {
+			"eng": {
+				"name": "Daniel",
+				"short": "Dan"
+			},
+			"fin": {
+				"name": "Daniel",
+				"short": "Dan."
+			}
+		},
+		"section": "OT",
+		"chapters": 12
+	},
+	"HOS": {
+		"languages": {
+			"eng": {
+				"name": "Hosea",
+				"short": "Hos"
+			},
+			"fin": {
+				"name": "Hoosea",
+				"short": "Hoos."
+			}
+		},
+		"section": "OT",
+		"chapters": 14
+	},
+	"JOL": {
+		"languages": {
+			"eng": {
+				"name": "Joel",
+				"short": "Joel"
+			},
+			"fin": {
+				"name": "Joel",
+				"short": "Joel"
+			}
+		},
+		"section": "OT",
+		"chapters": 3
+	},
+	"AMO": {
+		"languages": {
+			"eng": {
+				"name": "Amos",
+				"short": "Amos"
+			},
+			"fin": {
+				"name": "Aamos",
+				"short": "Aam."
+			}
+		},
+		"section": "OT",
+		"chapters": 9
+	},
+	"OBA": {
+		"languages": {
+			"eng": {
+				"name": "Obadiah",
+				"short": "Obad"
+			},
+			"fin": {
+				"name": "Obadja",
+				"short": "Ob."
+			}
+		},
+		"section": "OT",
+		"chapters": 1
+	},
+	"JON": {
+		"languages": {
+			"eng": {
+				"name": "Jonah",
+				"short": "Jonah"
+			},
+			"fin": {
+				"name": "Joona",
+				"short": "Joona"
+			}
+		},
+		"section": "OT",
+		"chapters": 4
+	},
+	"MIC": {
+		"languages": {
+			"eng": {
+				"name": "Micah",
+				"short": "Mic"
+			},
+			"fin": {
+				"name": "Miika",
+				"short": "Miika"
+			}
+		},
+		"section": "OT",
+		"chapters": 7
+	},
+	"NAM": {
+		"languages": {
+			"eng": {
+				"name": "Nahum",
+				"short": "Nah"
+			},
+			"fin": {
+				"name": "Nahum",
+				"short": "Nah."
+			}
+		},
+		"section": "OT",
+		"chapters": 3
+	},
+	"HAB": {
+		"languages": {
+			"eng": {
+				"name": "Habakkuk",
+				"short": "Hab"
+			},
+			"fin": {
+				"name": "Habakuk",
+				"short": "Hab."
+			}
+		},
+		"section": "OT",
+		"chapters": 3
+	},
+	"ZEP": {
+		"languages": {
+			"eng": {
+				"name": "Zephaniah",
+				"short": "Zeph"
+			},
+			"fin": {
+				"name": "Sefanja",
+				"short": "Sef."
+			}
+		},
+		"section": "OT",
+		"chapters": 3
+	},
+	"HAG": {
+		"languages": {
+			"eng": {
+				"name": "Haggai",
+				"short": "Hag"
+			},
+			"fin": {
+				"name": "Haggai",
+				"short": "Hagg."
+			}
+		},
+		"section": "OT",
+		"chapters": 2
+	},
+	"ZEC": {
+		"languages": {
+			"eng": {
+				"name": "Zechariah",
+				"short": "Zech"
+			},
+			"fin": {
+				"name": "Sakarja",
+				"short": "Sak."
+			}
+		},
+		"section": "OT",
+		"chapters": 14
+	},
+	"MAL": {
+		"languages": {
+			"eng": {
+				"name": "Malachi",
+				"short": "Mal"
+			},
+			"fin": {
+				"name": "Malakia",
+				"short": "Mal."
+			}
+		},
+		"section": "OT",
+		"chapters": 4
+	},
+	"MAT": {
+		"languages": {
+			"eng": {
+				"name": "Matthew",
+				"short": "Matt"
+			},
+			"fin": {
+				"name": "Matteus",
+				"short": "Matt."
+			}
+		},
+		"section": "NT",
+		"chapters": 28
+	},
+	"MRK": {
+		"languages": {
+			"eng": {
+				"name": "Mark",
+				"short": "Mark"
+			},
+			"fin": {
+				"name": "Markus",
+				"short": "Mark."
+			}
+		},
+		"section": "NT",
+		"chapters": 16
+	},
+	"LUK": {
+		"languages": {
+			"eng": {
+				"name": "Luke",
+				"short": "Luke"
+			},
+			"fin": {
+				"name": "Luukas",
+				"short": "Luuk."
+			}
+		},
+		"section": "NT",
+		"chapters": 24
+	},
+	"JHN": {
+		"languages": {
+			"eng": {
+				"name": "John",
+				"short": "John"
+			},
+			"fin": {
+				"name": "Johannes",
+				"short": "Joh."
+			}
+		},
+		"section": "NT",
+		"chapters": 21
+	},
+	"ACT": {
+		"languages": {
+			"eng": {
+				"name": "Acts",
+				"short": "Acts"
+			},
+			"fin": {
+				"name": "Apostolien teot",
+				"short": "Ap. t."
+			}
+		},
+		"section": "NT",
+		"chapters": 28
+	},
+	"ROM": {
+		"languages": {
+			"eng": {
+				"name": "Romans",
+				"short": "Rom"
+			},
+			"fin": {
+				"name": "Kirje roomalaisille",
+				"short": "Room."
+			}
+		},
+		"section": "NT",
+		"chapters": 16
+	},
+	"1CO": {
+		"languages": {
+			"eng": {
+				"name": "1 Corinthians",
+				"short": "1 Cor"
+			},
+			"fin": {
+				"name": "1. kirje korinttilaisille",
+				"short": "1. Kor."
+			}
+		},
+		"section": "NT",
+		"chapters": 16
+	},
+	"2CO": {
+		"languages": {
+			"eng": {
+				"name": "2 Corinthians",
+				"short": "2 Cor"
+			},
+			"fin": {
+				"name": "2. kirje korinttilaisille",
+				"short": "2. Kor."
+			}
+		},
+		"section": "NT",
+		"chapters": 13
+	},
+	"GAL": {
+		"languages": {
+			"eng": {
+				"name": "Galatians",
+				"short": "Gal"
+			},
+			"fin": {
+				"name": "Kirje galatalaisille",
+				"short": "Gal."
+			}
+		},
+		"section": "NT",
+		"chapters": 6
+	},
+	"EPH": {
+		"languages": {
+			"eng": {
+				"name": "Ephesians",
+				"short": "Eph"
+			},
+			"fin": {
+				"name": "Kirje efesolaisille",
+				"short": "Ef."
+			}
+		},
+		"section": "NT",
+		"chapters": 6
+	},
+	"PHP": {
+		"languages": {
+			"eng": {
+				"name": "Philippians",
+				"short": "Phil"
+			},
+			"fin": {
+				"name": "Kirje filippiläisille",
+				"short": "Fil."
+			}
+		},
+		"section": "NT",
+		"chapters": 4
+	},
+	"COL": {
+		"languages": {
+			"eng": {
+				"name": "Colossians",
+				"short": "Col"
+			},
+			"fin": {
+				"name": "Kirje kolossalaisille",
+				"short": "Kol."
+			}
+		},
+		"section": "NT",
+		"chapters": 4
+	},
+	"1TH": {
+		"languages": {
+			"eng": {
+				"name": "1 Thessalonians",
+				"short": "1 Thess"
+			},
+			"fin": {
+				"name": "1. kirje tessalonikalaisille",
+				"short": "1. Tess."
+			}
+		},
+		"section": "NT",
+		"chapters": 5
+	},
+	"2TH": {
+		"languages": {
+			"eng": {
+				"name": "2 Thessalonians",
+				"short": "2 Thess"
+			},
+			"fin": {
+				"name": "2. kirje tessalonikalaisille",
+				"short": "2. Tess."
+			}
+		},
+		"section": "NT",
+		"chapters": 3
+	},
+	"1TI": {
+		"languages": {
+			"eng": {
+				"name": "1 Timothy",
+				"short": "1 Tim"
+			},
+			"fin": {
+				"name": "1. kirje Timoteukselle",
+				"short": "1. Tim."
+			}
+		},
+		"section": "NT",
+		"chapters": 6
+	},
+	"2TI": {
+		"languages": {
+			"eng": {
+				"name": "2 Timothy",
+				"short": "2 Tim"
+			},
+			"fin": {
+				"name": "2. kirje Timoteukselle",
+				"short": "2. Tim."
+			}
+		},
+		"section": "NT",
+		"chapters": 4
+	},
+	"TIT": {
+		"languages": {
+			"eng": {
+				"name": "Titus",
+				"short": "Titus"
+			},
+			"fin": {
+				"name": "Kirje Titukselle",
+				"short": "Tit."
+			}
+		},
+		"section": "NT",
+		"chapters": 3
+	},
+	"PHM": {
+		"languages": {
+			"eng": {
+				"name": "Philemon",
+				"short": "Phlm"
+			},
+			"fin": {
+				"name": "Kirje Filemonille",
+				"short": "Filem."
+			}
+		},
+		"section": "NT",
+		"chapters": 1
+	},
+	"HEB": {
+		"languages": {
+			"eng": {
+				"name": "Hebrews",
+				"short": "Heb"
+			},
+			"fin": {
+				"name": "Kirje heprealaisille",
+				"short": "Hepr."
+			}
+		},
+		"section": "NT",
+		"chapters": 13
+	},
+	"JAS": {
+		"languages": {
+			"eng": {
+				"name": "James",
+				"short": "Jas"
+			},
+			"fin": {
+				"name": "Jaakobin kirje",
+				"short": "Jaak."
+			}
+		},
+		"section": "NT",
+		"chapters": 5
+	},
+	"1PE": {
+		"languages": {
+			"eng": {
+				"name": "1 Peter",
+				"short": "1 Pet"
+			},
+			"fin": {
+				"name": "1. Pietarin kirje",
+				"short": "1. Piet."
+			}
+		},
+		"section": "NT",
+		"chapters": 5
+	},
+	"2PE": {
+		"languages": {
+			"eng": {
+				"name": "2 Peter",
+				"short": "2 Pet"
+			},
+			"fin": {
+				"name": "2. Pietarin kirje",
+				"short": "2. Piet."
+			}
+		},
+		"section": "NT",
+		"chapters": 3
+	},
+	"1JN": {
+		"languages": {
+			"eng": {
+				"name": "1 John",
+				"short": "1 John"
+			},
+			"fin": {
+				"name": "1. Johanneksen kirje",
+				"short": "1. Joh."
+			}
+		},
+		"section": "NT",
+		"chapters": 5
+	},
+	"2JN": {
+		"languages": {
+			"eng": {
+				"name": "2 John",
+				"short": "2 John"
+			},
+			"fin": {
+				"name": "2. Johanneksen kirje",
+				"short": "2. Joh."
+			}
+		},
+		"section": "NT",
+		"chapters": 1
+	},
+	"3JN": {
+		"languages": {
+			"eng": {
+				"name": "3 John",
+				"short": "3 John"
+			},
+			"fin": {
+				"name": "3. Johanneksen kirje",
+				"short": "3. Joh."
+			}
+		},
+		"section": "NT",
+		"chapters": 1
+	},
+	"JUD": {
+		"languages": {
+			"eng": {
+				"name": "Jude",
+				"short": "Jude"
+			},
+			"fin": {
+				"name": "Juudaksen kirje",
+				"short": "Juud."
+			}
+		},
+		"section": "NT",
+		"chapters": 1
+	},
+	"REV": {
+		"languages": {
+			"eng": {
+				"name": "Revelation",
+				"short": "Rev"
+			},
+			"fin": {
+				"name": "Ilmestys",
+				"short": "Ilm."
+			}
+		},
+		"section": "NT",
+		"chapters": 22
+	},
+	"TOB": {
+		"languages": {
+			"eng": {
+				"name": "Tobit",
+				"short": "Tob"
+			},
+			"fin": {
+				"name": "Tobit",
+				"short": "Tob."
+			}
+		},
+		"section": "APO",
+		"chapters": 14
+	},
+	"JDT": {
+		"languages": {
+			"eng": {
+				"name": "Judith",
+				"short": "Jdt"
+			},
+			"fin": {
+				"name": "Judit",
+				"short": "Judit"
+			}
+		},
+		"section": "APO",
+		"chapters": 16
+	},
+	"ESG": {
+		"languages": {
+			"eng": {
+				"name": "Greek Esther",
+				"short": "Gk Esth"
+			},
+			"fin": {
+				"name": "Kreikkalainen Ester",
+				"short": "Kr. Est."
+			}
+		},
+		"section": "APO",
+		"chapters": 10
+	},
+	"WIS": {
+		"languages": {
+			"eng": {
+				"name": "Wisdom of Solomon",
+				"short": "Wis"
+			},
+			"fin": {
+				"name": "Viisauden kirja",
+				"short": "Viis."
+			}
+		},
+		"section": "APO",
+		"chapters": 19
+	},
+	"SIR": {
+		"languages": {
+			"eng": {
+				"name": "Sirach",
+				"short": "Sir"
+			},
+			"fin": {
+				"name": "Sirak",
+				"short": "Sir."
+			}
+		},
+		"section": "APO",
+		"chapters": 51
+	},
+	"BAR": {
+		"languages": {
+			"eng": {
+				"name": "Baruch",
+				"short": "Bar"
+			},
+			"fin": {
+				"name": "Baruk",
+				"short": "Bar."
+			}
+		},
+		"section": "APO",
+		"chapters": 5
+	},
+	"LJE": {
+		"languages": {
+			"eng": {
+				"name": "Letter of Jeremiah",
+				"short": "Let Jer"
+			},
+			"fin": {
+				"name": "Jeremian kirje",
+				"short": "Jer. k."
+			}
+		},
+		"section": "APO",
+		"chapters": 1
+	},
+	"DAG": {
+		"languages": {
+			"eng": {
+				"name": "Additions to Daniel",
+				"short": "Add Dan"
+			},
+			"fin": {
+				"name": "Danielin lisäykset",
+				"short": "Dan. lis."
+			}
+		},
+		"section": "APO",
+		"chapters": 3
+	},
+	"S3Y": {
+		"languages": {
+			"eng": {
+				"name": "The Prayer of Azariah and the Song of the Three Jews",
+				"short": "Pr Azar"
+			}
+		},
+		"section": "APO",
+		"chapters": 1
+	},
+	"SUS": {
+		"languages": {
+			"eng": {
+				"name": "Susanna",
+				"short": "Sus"
+			}
+		},
+		"section": "APO",
+		"chapters": 1
+	},
+	"BEL": {
+		"languages": {
+			"eng": {
+				"name": "Bel and the Dragon",
+				"short": "Bel"
+			}
+		},
+		"section": "APO",
+		"chapters": 1
+	},
+	"1MA": {
+		"languages": {
+			"eng": {
+				"name": "1 Maccabees",
+				"short": "1 Macc"
+			},
+			"fin": {
+				"name": "1. makkabilaiskirja",
+				"short": "1. Makk."
+			}
+		},
+		"section": "APO",
+		"chapters": 16
+	},
+	"2MA": {
+		"languages": {
+			"eng": {
+				"name": "2 Maccabees",
+				"short": "2 Macc"
+			},
+			"fin": {
+				"name": "2. makkabilaiskirja",
+				"short": "2. Makk."
+			}
+		},
+		"section": "APO",
+		"chapters": 15
+	},
+	"1ES": {
+		"languages": {
+			"eng": {
+				"name": "1 Esdras",
+				"short": "1 Esd"
+			},
+			"fin": {
+				"name": "1. Esdras",
+				"short": "1. Esd"
+			}
+		},
+		"section": "APO",
+		"chapters": 9
+	},
+	"MAN": {
+		"languages": {
+			"eng": {
+				"name": "Prayer of Manasseh",
+				"short": "Pr Man"
+			},
+			"fin": {
+				"name": "Manassen rukous",
+				"short": "Man. r."
+			}
+		},
+		"section": "APO",
+		"chapters": 1
+	},
+	"PS2": {
+		"languages": {
+			"eng": {
+				"name": "Psalm 151",
+				"short": "Ps 151"
+			},
+			"fin": {
+				"name": "Psalm 151",
+				"short": "Ps 151"
+			}
+		},
+		"section": "APO",
+		"chapters": 1
+	},
+	"3MA": {
+		"languages": {
+			"eng": {
+				"name": "3 Maccabees",
+				"short": "3 Macc"
+			},
+			"fin": {
+				"name": "3. Makkabilaiskirja",
+				"short": "3. Makk."
+			}
+		},
+		"section": "APO",
+		"chapters": 7
+	},
+	"2ES": {
+		"languages": {
+			"eng": {
+				"name": "1 Esdras",
+				"short": "1 Esd"
+			},
+			"fin": {
+				"name": "2. Esdras",
+				"short": "2. Esd"
+			}
+		},
+		"section": "APO",
+		"chapters": 16
+	},
+	"4MA": {
+		"languages": {
+			"eng": {
+				"name": "4 Maccabees",
+				"short": "4 Macc"
+			},
+			"fin": {
+				"name": "4. Makkabilaiskirja",
+				"short": "4. Makk."
+			}
+		},
+		"section": "APO",
+		"chapters": 18
+	}
+}

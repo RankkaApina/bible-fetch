@@ -1,0 +1,26 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "bible_fetch"
+version = "1.0.0"
+description = "Fetch Bible references from various online sources"
+requires-python = ">=3.10"
+dependencies = [
+  "requests",
+  "beautifulsoup4",
+  "unidecode",
+]
+
+[tool.setuptools]
+# This ensures it finds the 'tools' subpackage automatically
+packages = { find = {} }
+
+[tool.setuptools.package-data]
+# This ensures bible_books.json is included in the build
+"bible_fetch.tools" = ["*.json"]
+
+[project.scripts]
+# This allows you to run 'bible-fetch' directly from the terminal
+bible_fetch = "fetch_bible_text.__init__:main"
